@@ -1,1 +1,3 @@
-angular.module('aia-module', []);
+angular.module('aia-module', [
+	'aia-module.menuBar'
+]);
