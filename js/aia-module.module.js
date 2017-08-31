@@ -1,3 +1,4 @@
 angular.module('aia-module', [
-		'search'
+		'search',
+		'aia-module.menuBar'
 	]);
