@@ -1,4 +1,5 @@
 angular.module('aia-module', [
-		'search',
-		'toolBar'
+		'aia-module.search',
+		'aia-module.menuBar',
+		'aia-module.toolBar'
 	]);
