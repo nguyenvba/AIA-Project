@@ -1,1 +1,1 @@
-angular.module('toolBar', []);
+angular.module('aia-module.toolBar', []);
